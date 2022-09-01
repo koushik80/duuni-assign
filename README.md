@@ -3,6 +3,12 @@
 <div align="center"><a href="https://duuni-job-koushik.netlify.app/">Duunitori Job-Portal</a></div><br>
 
 <h3 align="center">Project photo</h3>
+<div align="center">
+<img width="1699" alt="1" src="https://user-images.githubusercontent.com/89943976/187900186-4b7e0bfd-901f-4b1a-aa0d-c40852368a7b.png">
+<img width="1703" alt="2" src="https://user-images.githubusercontent.com/89943976/187900183-2077d40a-5f64-4b50-b36e-dbdaadbb8e0e.png">
+<img width="1699" alt="3" src="https://user-images.githubusercontent.com/89943976/187900181-b066765c-f4cb-4cb7-b896-830bcd28f913.png">
+<img width="1700" alt="4" src="https://user-images.githubusercontent.com/89943976/187900179-90705b81-b1d0-49a6-a904-592cef6238b0.png">
+</div>
 
 <h1 align="center">Table of Content</h1>
 
@@ -46,7 +52,7 @@
 <h3 align="left">Instruction: :pager:</h3>
 
 <p>#npm start: Runs the app in the development mode. Open http://localhost:3000 to view it in the browser</p>
-<p>npm install: install all required dependencies in your local machine<p>
+<p>#npm install: install all required dependencies in your local machine<p>
 <p>#npm test: Launches the test runner in the interactive watch mode</p>
 <p>#npm run build: Builds the app for production to the #build folder</p>
 

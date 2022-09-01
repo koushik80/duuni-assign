@@ -25,7 +25,7 @@
 
 <p>The app is created to submit as pre-assignment. The implementation strives to be simple. The application is composed as follows:</p>
 
-<h3 align="left">Technologies: :computer:</h3><br>
+<h3 align="left">Technologies: :computer:</h3>
 
 <h4 align="left">Frontend</h4>
 <ul>
@@ -60,7 +60,7 @@
 <ul>
 <li>Node: 16.13.2</li>
 <li>NPM: 8.1.2</li>
-</ul><br>
+</ul>
 
 <h3 align="left">References: </h3>
 <ul>

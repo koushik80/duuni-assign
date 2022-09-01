@@ -13,6 +13,8 @@
 
 </div>
 
+<h2 align="center">MERN APP</h2>
+
 <h1 align="center">Table of Content</h1>
 
 <p>Title</p>
@@ -21,8 +23,6 @@
 <p>Instruction</p>
 <P>Prerequisites</p>
 <p>References</p>
-
-<h2 align="center">MERN APP</h2>
 
 <h3 align="left">Description: </h3>
 

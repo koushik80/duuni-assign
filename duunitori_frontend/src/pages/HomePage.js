@@ -5,7 +5,7 @@ import Pagination from '@mui/material/Pagination';
 import axios from 'axios';
 import { API_URL } from '../API.config';
 
-import InputLabel from '@mui/material/InputLabel';
+//import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
@@ -18,11 +18,11 @@ export default function HomePage() {
   const [currentPage, setCurrentPage] = useState(1);
   const [showLoading, setShowLoading] = useState(false);
   const [jobData, setJobData] = useState([]);
-  const [latestEnding, setlatestEnding] = useState("");
   const [latestEndingSort, setlatestEndingSort] = useState("default");
   const [currentAPIURL, setCurrentAPIURL] = useState(API_URL + "jobs");
-  const [searchQuery, setSearchQuery] = useState("");
-  const [allJobData, setAllJobData] = useState([]);
+  //const [searchQuery, setSearchQuery] = useState("");
+  //const [allJobData, setAllJobData] = useState([]);
+  //const [latestEnding, setlatestEnding] = useState("");
 
   useEffect(() => {
     setShowLoading(true);
@@ -54,7 +54,6 @@ export default function HomePage() {
       <div className="homepage-search">
         <Autocomplete
           freeSolo
-         
           getOptionLabel={(option) => option.heading}
           options={AllJobs}
           renderOption={(props, option) => (

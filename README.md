@@ -68,5 +68,4 @@
 <h3 align="left">References: </h3>
 <ul>
 <li><a href="https://duunitori.fi/">Duunitori</a></li>
-<li><a href="https://digitalsynopsis.com/design/beautiful-color-gradient-palettes/">DIGITAL SYNOPSIS</a></li>
 </ul>

@@ -44,7 +44,7 @@
 <h3 align="left">Instruction: :pager:</h3>
 
 <p>#npm start: Runs the app in the development mode. Open http://localhost:3000 to view it in the browser</p>
-<p>npm install: install all required dependencies in your local machine<p>
+<p>#npm install: install all required dependencies in your local machine<p>
 <p>#npm test: Launches the test runner in the interactive watch mode</p>
 <p>#npm run build: Builds the app for production to the #build folder</p>
 
@@ -57,5 +57,4 @@
 <h3 align="left">References: </h3>
 <ul>
 <li><a href="https://duunitori.fi/">Duunitori</a></li>
-<li><a href="https://digitalsynopsis.com/design/beautiful-color-gradient-palettes/">DIGITAL SYNOPSIS</a></li>
 </ul>

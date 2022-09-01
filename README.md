@@ -8,6 +8,8 @@
 <img width="1703" alt="2" src="https://user-images.githubusercontent.com/89943976/187900183-2077d40a-5f64-4b50-b36e-dbdaadbb8e0e.png">
 <img width="1699" alt="3" src="https://user-images.githubusercontent.com/89943976/187900181-b066765c-f4cb-4cb7-b896-830bcd28f913.png">
 <img width="1700" alt="4" src="https://user-images.githubusercontent.com/89943976/187900179-90705b81-b1d0-49a6-a904-592cef6238b0.png">
+
+![merged](https://user-images.githubusercontent.com/89943976/187901245-fa4c3dd8-8a89-4efc-80c0-a89cb2e5998c.gif)
 </div>
 
 <h1 align="center">Table of Content</h1>

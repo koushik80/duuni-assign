@@ -5,7 +5,6 @@ import Pagination from '@mui/material/Pagination';
 import axios from 'axios';
 import { API_URL } from '../API.config';
 
-//import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
@@ -20,9 +19,7 @@ export default function HomePage() {
   const [jobData, setJobData] = useState([]);
   const [latestEndingSort, setlatestEndingSort] = useState("default");
   const [currentAPIURL, setCurrentAPIURL] = useState(API_URL + "jobs");
-  //const [searchQuery, setSearchQuery] = useState("");
-  //const [allJobData, setAllJobData] = useState([]);
-  //const [latestEnding, setlatestEnding] = useState("");
+
 
   useEffect(() => {
     setShowLoading(true);
@@ -34,10 +31,13 @@ export default function HomePage() {
 
   useEffect(() => {
     const tmp = latestEndingSort;
+    // eslint-disable-next-line
     if (tmp == "default") {
       setCurrentAPIURL(API_URL + "jobs");
+    // eslint-disable-next-line
     } else if (tmp == "asc") {
       setCurrentAPIURL(API_URL + "jobs/latestEnding/asc");
+    // eslint-disable-next-line
     } else if (tmp == "dsc") {
       setCurrentAPIURL(API_URL + "jobs/latestEnding/dsc");
     }

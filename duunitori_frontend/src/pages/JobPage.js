@@ -19,6 +19,7 @@ export default function JobPage() {
       setJobDesc(data.data[0]);
       setShowLoading(false);
     });
+  // eslint-disable-next-line
   }, []);
 
   return (

@@ -63,7 +63,7 @@ export default function JobPage() {
           <p className="salary">
             {jobDesc.salary.high_value === jobDesc.salary.low_value
               ? jobDesc.salary.high_value
-              : jobDesc.salary.high_value + "-" + jobDesc.salary.low_value}€
+              : jobDesc.salary.low_value + "-" + jobDesc.salary.high_value}€
             /{jobDesc.salary.value_period === "m" ? "Month" : "Hour"}
           </p>
         </div>

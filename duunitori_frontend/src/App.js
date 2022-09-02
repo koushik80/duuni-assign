@@ -3,7 +3,7 @@ import Nav from './components/Nav';
 import HomePage from './pages/HomePage';
 import JobPage from './pages/JobPage';
 import './styles/styles.scss';
-import SocialFollow from './SocialFollow';
+import SocialFollow from './components/SocialFollow';
 
 function App() {
   return (

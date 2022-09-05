@@ -1,6 +1,6 @@
 # Hi there👋! Here goes below my assignment information
 
-<div align="center"><a href="https://duuni-job-koushik.netlify.app/">Duunitori Job-Portal</a></div><br>
+<div align="center"><a href="https://duuni-job-app.herokuapp.com">Duunitori Job-Portal</a></div><br>
 
 <h1 align="center">Table of Content</h1>
 

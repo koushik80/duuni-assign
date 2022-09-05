@@ -1,6 +1,6 @@
 # Hi there👋! Here goes below my assignment information
 
-<div align="center"><a href="https://duuni-job-koushik.netlify.app/">Job Searching Platform</a></div><br>
+<div align="center"><a href="https://duuni-job-app.herokuapp.com">Job Searching Platform</a></div><br>
 
 <h3 align="center">Project photo</h3>
 <div align="center">

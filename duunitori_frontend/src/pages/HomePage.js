@@ -17,7 +17,7 @@ export default function HomePage() {
   const [currentPage, setCurrentPage] = useState(1);
   const [showLoading, setShowLoading] = useState(false);
   const [jobData, setJobData] = useState([]);
-  const [latestEndingSort, setlatestEndingSort] = useState("default");
+  const [latestEndingSort, setLatestEndingSort] = useState("default");
   const [currentAPIURL, setCurrentAPIURL] = useState(API_URL + "jobs");
 
 
@@ -83,7 +83,7 @@ export default function HomePage() {
             id="demo-simple-select"
             value={latestEndingSort}
             onChange={(e) => {
-              setlatestEndingSort(e.target.value);
+              setLatestEndingSort(e.target.value);
             }}
           >
             <MenuItem value={"default"}>Default</MenuItem>

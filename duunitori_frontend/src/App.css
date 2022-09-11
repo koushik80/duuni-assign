@@ -53,7 +53,7 @@
   align-items: center;
   justify-content: center;
 }
-.social-icons{
+.social-icons {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -107,4 +107,12 @@ a.pinterest {
   overflow: hidden;
   bottom: 0;
 }
+
+@media only screen and (min-width: 600px){
+		.socialConnect{
+			width: 100%;
+		}
+}
+
+
 /*Social media@end*/
